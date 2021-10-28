@@ -48,7 +48,7 @@ function checkIfLost() {
       "block";
     document.getElementById(
       "clue"
-    ).innerHTML = `<p> the random number is: ${randomItem}</p>`;
+    ).innerHTML = `<p> the random word is: ${randomItem}</p>`;
   }
 }
 
